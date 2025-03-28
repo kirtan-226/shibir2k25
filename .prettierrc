@@ -1,0 +1,13 @@
+{
+  "trailingComma": "all",
+  "endOfLine": "auto",
+  "singleQuote": true,
+  "printWidth": 100,
+  "tabWidth": 2,
+  "semi": true,
+  "bracketSpacing": true,
+  "proseWrap": "always",
+  "bracketSameLine": false,
+  "arrowParens": "avoid",
+  "parser": "typescript"
+}
